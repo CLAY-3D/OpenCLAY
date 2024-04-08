@@ -15,4 +15,4 @@ Evolution of human innovation, from primitive tools and cultural artifacts to mo
 
 ## 🚩 News
 
-- [2024/04/09] Paper and code coming soon, stay tuned! 🔥🔥🔥
+- [2024/04/09] Paper and code coming soon, stay tuned! Follow x.com/deemostech for the latest updates. 🔥🔥🔥
