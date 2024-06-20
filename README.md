@@ -1,7 +1,7 @@
 <div align="center">
 
 # CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets
-
+## [Rodin Gen-1](https://hyperhuman.deemos.com/rodin) | [Hugging Face](https://huggingface.co/spaces/DEEMOSTECH/Rodin)
 
 </div>
 
@@ -14,5 +14,5 @@
 
 
 ## 🚩 News
-
+- [2024/06/20] CLAY received the SIGGRAPH 2024 Best Paper Honorable Mention. Try our product [Rodin Gen-1](https://hyperhuman.deemos.com/rodin) and the [Huggingface Demo](https://huggingface.co/spaces/DEEMOSTECH/Rodin). 🔥🔥🔥
 - [2024/04/09] Paper and code coming soon, stay tuned! Follow [x.com/deemostech](https://x.com/deemostech) for the latest updates. 🔥
