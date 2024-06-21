@@ -1,7 +1,7 @@
 <div align="center">
 
 # CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets
-## | [arXiv Preprint](https://arxiv.org/abs/2406.13897) | [Project](https://sites.google.com/view/clay-3dlm) | [Rodin Gen-1](https://hyperhuman.deemos.com/rodin) | [Hugging Face](https://huggingface.co/spaces/DEEMOSTECH/Rodin) 
+## [arXiv Preprint](https://arxiv.org/abs/2406.13897) | [Project](https://sites.google.com/view/clay-3dlm) | [Rodin Gen-1](https://hyperhuman.deemos.com/rodin) | [Hugging Face](https://huggingface.co/spaces/DEEMOSTECH/Rodin) 
 
 </div>
 
